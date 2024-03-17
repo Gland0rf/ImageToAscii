@@ -42,7 +42,7 @@ def main(image_path, output_width=100):
         print(e)
 
 if __name__ == '__main__':
-    image_path = 'Images/test.png'
+    image_path = 'Images/testImage.png'
     output_width = 100
     main(image_path, output_width)
     print("check out.txt file")
